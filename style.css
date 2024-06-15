@@ -1,0 +1,47 @@
+body {
+  background-color: aliceblue;
+}
+
+.logo {
+  text-align: center;
+}
+
+.Linksnavegacao {
+  margin-right: 20px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.logofaq {
+  text-align: center;
+}
+
+.logoquemsomos {
+  text-align: center;
+}
+
+.logoservicos {
+  text-align: center;
+}
+
+.textologo {
+  margin-bottom: 20px;
+}
+
+h2 {
+  background-color: rgb(202, 223, 245);
+  text-align: center;
+}
+
+.Volta {
+  color: black;
+}
+
+.logo1 {
+  text-align: center;
+  margin-top: 50px;
+}
